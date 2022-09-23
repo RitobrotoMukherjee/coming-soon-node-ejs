@@ -23,6 +23,8 @@
 - **`git clone https://github.com/RitobrotoMukherjee/coming-soon-node-ejs.git`**
 - **`cd coming-soon-node-ejs`**
 - **`npm i`**
+- **`npm run serve`**
+- **Visit: `http://localhost:5050`**
 
 
 To get a local copy up and running follow these simple example steps.
