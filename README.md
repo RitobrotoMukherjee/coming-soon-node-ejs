@@ -2,7 +2,7 @@
 
 # Coming Soon Website
 
-> A simple but attractive coming soon website with time counter, using Node JS, HTML5, and TailwindCSS.
+> A simple but attractive coming soon website with time counter for 5 minutes from first loading time, using Node JS, HTML5, and TailwindCSS. On every page load counter resets to 5 minutes and starts automatically.
 
 
 ## Built With
@@ -10,6 +10,8 @@
 - HTML5
 - TailwindCSS
 - Node JS
+- Express JS
+- EJS Template
 
 ## Live Demo (coming soon😉)
 
@@ -27,11 +29,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Node & npm
+- Node & npm
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/RitobrotoMukherjee)
 - Twitter: [@twitterhandle](https://twitter.com/RitobrotoM3)
